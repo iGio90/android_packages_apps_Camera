@@ -188,7 +188,10 @@
         <item>2560x1536</item>
         <item>2048x1536</item>
         <item>2048x1232</item>
+<<<<<<< HEAD
         <item>1920x1080</item>
+=======
+>>>>>>> 3b51450... camera: add support for 6.4 and 2.5MP (16:9) picture sizes
         <item>1600x1200</item>
         <item>1600x960</item>
         <item>1280x960</item>
