@@ -180,7 +180,6 @@ public class CameraSettings {
                 group.findPreference(KEY_VIDEOCAMERA_FLASH_MODE);
         ListPreference videoEffect = group.findPreference(KEY_VIDEO_EFFECT);
         ListPreference cameraHdr = group.findPreference(KEY_CAMERA_HDR);
-        ListPreference isoMode = group.findPreference(KEY_ISO_MODE);
         ListPreference colorEffect = group.findPreference(KEY_COLOR_EFFECT);
         ListPreference videoColorEffect = group.findPreference(KEY_VIDEOCAMERA_COLOR_EFFECT);
 
